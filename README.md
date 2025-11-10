@@ -1,4 +1,4 @@
-# terraform-mi-proyecto
+# terraform-test
 
 Ejemplo mínimo de proyecto Terraform con un módulo `s3_bucket` y carpeta `envs/dev`.
 
