@@ -9,7 +9,7 @@ Quickstart:
 3. Inicializa e intenta plan:
 
 ```bash
-cd terraform-mi-proyecto
+cd terraform-test
 terraform init
 terraform fmt -recursive
 terraform validate
